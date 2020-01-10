@@ -1,0 +1,6 @@
+http://topex.ucsd.edu/gmtsar/tar/ORBITS.tar
+sudo -i
+cd /usr/local
+mkdir orbits
+cd orbits
+tar -xvf ~/Downloads/ORBITS.tar # (need full path to ORBITS.tar)
